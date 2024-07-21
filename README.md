@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 This model is pre-trained so simply run the predictor.
 
-   streamlit run app.py
+   streamlit run flood_prediction.py
    
 # If you want to train the model on your own:
 

@@ -1,4 +1,4 @@
-## Flood_Prediction_System
+# Flood_Prediction_System
 # Project Overview
 This project aims to predict Flood Probability based on different characteristics of places using linear regression model. The project includes a Streamlit web application that allows users to input different tropographical and natural characteristics of the place with the help of a sidebar and get predictions.
 # Project Details
@@ -42,12 +42,12 @@ Python 3.1.2 or higher
 Git
 # Steps
 1. Clone the repository
-git clone https://github.com/Nehu2021/Food_Adulteration_Health_Risk_using_ML.git
+git clone https://github.com/Prasiddha08/Flood_Prediction_System.git
 
 3. Navigate to the project directory
 Change your current working directory to the project directory.
 
-cd Food_Adulteration
+cd Flood_Prediction_System
 
 5. Install dependencies
 Install the required packages using pip.
